@@ -1,0 +1,1396 @@
+{
+  "name": "template",
+  "wewebWP": {
+    "uniqueId": 336072891,
+    "wwVersion": 3,
+    "content": {
+      "type": "ww-image",
+      "data": {
+        "url": "http://cdn.wewebapp.io/public/images/weweb-wp.png",
+        "alt": {
+          "fr": "webeo",
+          "en": "webeo"
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "zoom": 1,
+        "style": {
+          "borderRadius": 0,
+          "borderWidth": 0,
+          "borderColor": null,
+          "borderStyle": null,
+          "overlay": null,
+          "filter": null,
+          "boxShadow": {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "s": 0,
+            "c": ""
+          }
+        },
+        "animation": {
+          "duration": 0,
+          "delay": 0,
+          "fn": null,
+          "opacity": 1,
+          "scale": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "rotate": 0
+        },
+        "imgSize": {
+          "w": 1920,
+          "h": 1080
+        },
+        "hover": {
+          "name": "",
+          "options": {}
+        }
+      }
+    },
+    "link": {
+      "type": "none",
+      "data": {}
+    },
+    "ratio": -1,
+    "paddings": {
+      "xs": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "md": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    "hidden": false,
+    "tags": [],
+    "children": {},
+    "data": {},
+    "anim": {},
+    "new": false
+  },
+  "testimonialText": {
+    "uniqueId": 690887805,
+    "wwVersion": 3,
+    "content": {
+      "type": "ww-text",
+      "data": {
+        "text": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+        "tag": "div",
+        "align": "center",
+        "font": "",
+        "size": "",
+        "color": "",
+        "classes": [],
+        "children": []
+      }
+    },
+    "link": {
+      "type": "none",
+      "data": {}
+    },
+    "ratio": -1,
+    "paddings": {
+      "xs": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "md": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    "hidden": false,
+    "tags": [],
+    "children": {},
+    "data": {},
+    "anim": {},
+    "new": true
+  },
+  "testimonialPhoto": {
+    "uniqueId": 7505014762,
+    "wwVersion": 3,
+    "content": {
+      "type": "ww-image",
+      "data": {
+        "url": "https://cdn.weweb.app/public/images/no_image_selected.png",
+        "alt": "",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "pos": {},
+        "zoom": 1,
+        "style": {
+          "borderRadius": 0,
+          "borderWidth": 0,
+          "borderColor": null,
+          "borderStyle": null,
+          "overlay": null,
+          "filter": null,
+          "boxShadow": {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "s": 0,
+            "c": ""
+          }
+        },
+        "animation": {
+          "duration": 0,
+          "delay": 0,
+          "fn": null,
+          "opacity": 1,
+          "scale": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "rotate": 0
+        },
+        "imgSize": {
+          "w": 1920,
+          "h": 1080
+        },
+        "hover": {
+          "name": "",
+          "options": {}
+        },
+        "focusPoint": [50, 50]
+      }
+    },
+    "link": {
+      "type": "none",
+      "data": {}
+    },
+    "ratio": -1,
+    "paddings": {
+      "xs": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "md": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    "hidden": false,
+    "tags": [],
+    "children": {},
+    "data": {},
+    "anim": {},
+    "new": true
+  },
+  "testSlides": [{
+    "image": {
+      "uniqueId": 6527510075,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-image",
+        "data": {
+          "url": "https://cdn.weweb.app/designs/61/sections/4kqYX7gaSwwajQ0YzGUjze2Iov9wQ4Gi.jpg",
+          "alt": "",
+          "position": {
+            "x": -3.3306690738754696e-16,
+            "y": 16.56143256391678
+          },
+          "pos": {
+            "left": "0%",
+            "top": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "zoom": 1,
+          "style": {
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": null,
+            "borderStyle": null,
+            "overlay": null,
+            "filter": null,
+            "boxShadow": {
+              "x": 0,
+              "y": 0,
+              "b": 0,
+              "s": 0,
+              "c": ""
+            }
+          },
+          "animation": {
+            "duration": 0,
+            "delay": 0,
+            "fn": null,
+            "opacity": 1,
+            "scale": 1,
+            "translateX": 0,
+            "translateY": 0,
+            "rotate": 0
+          },
+          "imgSize": {
+            "w": 1920,
+            "h": 1080
+          },
+          "hover": {
+            "name": "",
+            "options": {}
+          },
+          "focusPoint": [50, 50],
+          "ratio": "100",
+          "crop": "100px67p@0px0p"
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": 100,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    },
+    "items": [{
+      "uniqueId": 15219250167,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:3rem\">\"Lorem ipsum\"</span></font></span></i></font></span></div></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 44
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 9242328153,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><span style=\"font-size:1.2rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.2rem\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:1.5rem\">Quis hendrerit dolor magna eget est lorem ipsum dolor. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. </span></font></span></i></font></span></span></div></span></span></span></span></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 5614983751,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<div style=\"text-align: right;\"><b style=\"color: rgb(255, 255, 255); font-family: Karla, sans-serif; text-align: initial;\">－ John Doe</b></div>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 33,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }]
+  }, {
+    "image": {
+      "uniqueId": 15260970325,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-image",
+        "data": {
+          "url": "https://cdn.weweb.app/designs/61/sections/qPa2uyGCXLQf9SpEbFOZcLmFc4Lejlxc.jpg",
+          "alt": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "pos": {
+            "left": "0%",
+            "top": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "zoom": 1.4201810554206227,
+          "style": {
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": null,
+            "borderStyle": null,
+            "overlay": null,
+            "filter": null,
+            "boxShadow": {
+              "x": 0,
+              "y": 0,
+              "b": 0,
+              "s": 0,
+              "c": ""
+            }
+          },
+          "animation": {
+            "duration": 0,
+            "delay": 0,
+            "fn": null,
+            "opacity": 1,
+            "scale": 1,
+            "translateX": 0,
+            "translateY": 0,
+            "rotate": 0
+          },
+          "imgSize": {
+            "w": 1920,
+            "h": 1080
+          },
+          "hover": {
+            "name": "",
+            "options": {}
+          },
+          "focusPoint": [50, 50],
+          "ratio": "100",
+          "crop": "71px100p@14px0p"
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": 100,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    },
+    "items": [{
+      "uniqueId": 13546489197,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:3rem\">\"Lorem ipsum\"</span></font></span></i></font></span></div></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 44
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 517025627,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><span style=\"font-size:1.2rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.2rem\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:1.5rem\">Accumsan tortor posuere ac ut consequat semper. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Quisque egestas diam in arcu cursus euismod quis viverra. Scelerisque eu ultrices vitae auctor eu augue.</span></font></span></i></font></span></span></div></span></span></span></span></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 3161367397,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<div style=\"text-align: right;\"><b style=\"text-align: initial;\"><font color=\"#ffffff\" face=\"Karla, sans-serif\">－ John Doe</font></b></div>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 33,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }]
+  }, {
+    "image": {
+      "uniqueId": 12330455902,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-image",
+        "data": {
+          "url": "https://cdn.weweb.app/designs/61/sections/yB9F3KDOESCslOISDndEoWK2pmz8iNlV.jpg",
+          "alt": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "pos": {
+            "left": "0%",
+            "top": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "zoom": 1,
+          "style": {
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": null,
+            "borderStyle": null,
+            "overlay": null,
+            "filter": null,
+            "boxShadow": {
+              "x": 0,
+              "y": 0,
+              "b": 0,
+              "s": 0,
+              "c": ""
+            }
+          },
+          "animation": {
+            "duration": 0,
+            "delay": 0,
+            "fn": null,
+            "opacity": 1,
+            "scale": 1,
+            "translateX": 0,
+            "translateY": 0,
+            "rotate": 0
+          },
+          "imgSize": {
+            "w": 1920,
+            "h": 1080
+          },
+          "hover": {
+            "name": "",
+            "options": {}
+          },
+          "focusPoint": [50, 50],
+          "ratio": "100",
+          "crop": "100px100p@0px0p"
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": 100,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    },
+    "items": [{
+      "uniqueId": 1885227460,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:3rem\">\"Lorem ipsum dolor\"</span></font></span></i></font></span></div></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 44
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 15389342733,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><span style=\"font-size:1.2rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.2rem\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:1.5rem\">rnare quam viverra orci sagittis eu. At volutpat diam ut venenatis tellus in. Semper viverra nam libero justo laoreet sit amet cursus. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel.</span></font></span></i></font></span></span></div></span></span></span></span></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 65
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 15560464633,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<div style=\"text-align: right;\"><span style=\"color: rgb(255, 255, 255); font-family: Karla, sans-serif; text-align: initial;\"><b>－ John Doe</b></span></div>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 33,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }]
+  }, {
+    "image": {
+      "uniqueId": 15384700360,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-image",
+        "data": {
+          "url": "https://cdn.weweb.app/designs/61/sections/T6jXaKforOrEK722msVEm6tE3pPhoLKW.jpg",
+          "alt": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "pos": {
+            "left": "0%",
+            "top": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "zoom": 1.4952923398814368,
+          "style": {
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": null,
+            "borderStyle": null,
+            "overlay": null,
+            "filter": null,
+            "boxShadow": {
+              "x": 0,
+              "y": 0,
+              "b": 0,
+              "s": 0,
+              "c": ""
+            }
+          },
+          "animation": {
+            "duration": 0,
+            "delay": 0,
+            "fn": null,
+            "opacity": 1,
+            "scale": 1,
+            "translateX": 0,
+            "translateY": 0,
+            "rotate": 0
+          },
+          "imgSize": {
+            "w": 1920,
+            "h": 1080
+          },
+          "hover": {
+            "name": "",
+            "options": {}
+          },
+          "focusPoint": [50, 50],
+          "ratio": "100",
+          "crop": "67px100p@16px0p"
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": 100,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    },
+    "items": [{
+      "uniqueId": 4090476955,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:3rem\">\"Lorem ipsum\"</span></font></span></i></font></span></div></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 44
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 5140015209,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><span style=\"font-size:1.2rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.2rem\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:1.5rem\">Eu consequat ac felis donec. Amet nisl purus in mollis nunc sed. Quam viverra orci sagittis eu volutpat odio. Sodales neque sodales ut etiam. Quis commodo odio aenean sed adipiscing diam donec. Nec ultrices dui sapien eget mi proin sed libero.</span></font></span></i></font></span></span></div></span></span></span></span></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 12226937210,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<div style=\"text-align: right;\"><span style=\"color: rgb(255, 255, 255); font-family: Karla, sans-serif; text-align: initial;\"><b>－ John Doe</b></span></div>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 33,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }]
+  }, {
+    "image": {
+      "uniqueId": 3424185588,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-image",
+        "data": {
+          "url": "https://cdn.weweb.app/designs/61/sections/9Ems1RDDZIUOi3J6d20VEDXd2szLSzhh.jpg",
+          "alt": "",
+          "position": {
+            "x": -12.802900918294101,
+            "y": 1.1102230246251565e-16
+          },
+          "pos": {
+            "left": "0%",
+            "top": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "zoom": 1.5543740937651038,
+          "style": {
+            "borderRadius": 0,
+            "borderWidth": 0,
+            "borderColor": null,
+            "borderStyle": null,
+            "overlay": null,
+            "filter": null,
+            "boxShadow": {
+              "x": 0,
+              "y": 0,
+              "b": 0,
+              "s": 0,
+              "c": ""
+            }
+          },
+          "animation": {
+            "duration": 0,
+            "delay": 0,
+            "fn": null,
+            "opacity": 1,
+            "scale": 1,
+            "translateX": 0,
+            "translateY": 0,
+            "rotate": 0
+          },
+          "imgSize": {
+            "w": 1920,
+            "h": 1080
+          },
+          "hover": {
+            "name": "",
+            "options": {}
+          },
+          "focusPoint": [50, 50],
+          "ratio": "100",
+          "crop": "65px100p@30px0p"
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": 100,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    },
+    "items": [{
+      "uniqueId": 10895328795,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:3rem\">\"Lorem ipsum dolor\"</span></font></span></i></font></span></div></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 44
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 8928870130,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<span style=\"font-size:1.2rem\"><span style=\"font-size:1.2rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:1.5rem\"><span style=\"font-size:2rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><span style=\"font-size:1.2rem\"><font face=\"Vollkorn, serif\"><i><span style=\"font-size:1.5rem\"><font color=\"#ffffff\"><span style=\"font-size:1.5rem\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut\n  \nenim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></font></span></i></font></span></span></div></span></span></span></span></span>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }, {
+      "uniqueId": 10696876217,
+      "wwVersion": 3,
+      "content": {
+        "type": "ww-text",
+        "data": {
+          "text": {
+            "fr": "Nouveau texte",
+            "en": "<div style=\"text-align: right;\"><span style=\"color: rgb(255, 255, 255); font-family: Karla, sans-serif; text-align: initial;\"><b>－ John Doe</b></span></div>"
+          },
+          "tag": "div",
+          "align": "",
+          "font": "",
+          "size": "",
+          "color": "",
+          "classes": [],
+          "children": []
+        }
+      },
+      "link": {
+        "type": "none",
+        "data": {}
+      },
+      "ratio": -1,
+      "paddings": {
+        "xs": {
+          "top": 0,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "md": {
+          "top": 33,
+          "left": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "hidden": false,
+      "tags": [],
+      "children": {},
+      "data": {},
+      "anim": {}
+    }]
+  }],
+  "background": {
+    "uniqueId": 14307099053,
+    "wwVersion": 3,
+    "content": {
+      "type": "ww-image",
+      "data": {
+        "url": "https://cdn.weweb.app/designs/61/sections/AHGzRcoGWU9THo4nT8vEy4g62z9FJyb6.png",
+        "alt": "",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "pos": {
+          "left": "0%",
+          "top": "0%",
+          "width": "100%",
+          "height": "100%"
+        },
+        "zoom": 1,
+        "style": {
+          "borderRadius": 0,
+          "borderWidth": 0,
+          "borderColor": null,
+          "borderStyle": null,
+          "overlay": null,
+          "filter": null,
+          "boxShadow": {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "s": 0,
+            "c": ""
+          }
+        },
+        "animation": {
+          "duration": 0,
+          "delay": 0,
+          "fn": null,
+          "opacity": 1,
+          "scale": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "rotate": 0
+        },
+        "imgSize": {
+          "w": 1920,
+          "h": 1080
+        },
+        "hover": {
+          "name": "",
+          "options": {}
+        },
+        "focusPoint": [50.5, 0.49883086515978176],
+        "crop": "100px100p@0px0p"
+      }
+    },
+    "link": {
+      "type": "none",
+      "data": {}
+    },
+    "ratio": 100,
+    "paddings": {
+      "xs": {
+        "top": 245,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "md": {
+        "top": 417,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "sm": {
+        "top": 382
+      },
+      "lg": {
+        "top": 532
+      }
+    },
+    "hidden": false,
+    "tags": [],
+    "children": {},
+    "data": {},
+    "anim": {}
+  },
+  "title": {
+    "uniqueId": 13313504705,
+    "wwVersion": 3,
+    "content": {
+      "type": "ww-text",
+      "data": {
+        "text": {
+          "fr": "Nouveau texte",
+          "en": "<span style=\"font-size:3rem\"><div style=\"text-align: center;\"><span style=\"text-align: initial;\"><font face=\"Vollkorn, serif\" color=\"#4f5aa7\">Testimonials</font></span></div></span>"
+        },
+        "tag": "div",
+        "align": "",
+        "font": "",
+        "size": "",
+        "color": "",
+        "classes": [],
+        "children": []
+      }
+    },
+    "link": {
+      "type": "none",
+      "data": {}
+    },
+    "ratio": -1,
+    "paddings": {
+      "xs": {
+        "top": 0,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "md": {
+        "top": 50,
+        "left": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    "hidden": false,
+    "tags": [],
+    "children": {},
+    "data": {},
+    "anim": {}
+  },
+  "testimonailsNumber": 3
+}

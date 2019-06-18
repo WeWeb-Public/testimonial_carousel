@@ -1,11 +1,11 @@
 module.exports = [
-    {
-        name: 'my_section',
+      {
+        name: 'testimonials',
         storeName: {
-            en_GB: "My first section"
-        },
+            en_GB: 'Testimonials carousel',
+          },
         storeDesc: {
-            en_GB: "Template for my first section"
-        }
-    }
-]
+            en_GB: 'Template for a testimonials carousel',
+          },
+      },
+];
